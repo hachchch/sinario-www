@@ -1,12 +1,14 @@
 [
         {
                 "name": "Army set germany",
+                "Happiness": 100,
                 "cost": 1,
                 "uniqueTo": "Germany",
-                "uniques": ["[5] free [Great War Infantry] units appear","[1] free [Bomber] units appear","[2] free [Panzer] units appear","[1] free [Machine Gun] units appear","[1] free [Great General] units appear","[1] free [Submarine] units appear <if [Harbor] is constructed>"],
+                "uniques": ["[5] free [Great War Infantry] units appear","[3] free [Bomber] units appear","[4] free [Panzer] units appear","[1] free [Machine Gun] units appear","[1] free [Great General] units appear","[1] free [Submarine] units appear <if [Harbor] is constructed>"],
         },
         {
                 "name": "Army set Russia",
+                "Happiness": -100,
                 "cost": 1,
                 "uniqueTo": "Russia",
                 "uniques": ["[9] free [Rifleman] units appear","[3] free [Rocket Artillery] units appear","[3] free [Landship] units appear","[1] free [Great Engineer] units appear","[1] free [Artillery] units appear","[1] free [Cossack] units appear","[1] free [Anti-Tank Gun]"],
