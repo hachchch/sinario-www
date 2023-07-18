@@ -29,7 +29,7 @@
                 "name": "Army set Blitain",
                 "cost": 1,
                 "uniqueTo": "England",
-                "uniques": ["[3] free [Great War Infantry] units appear","[3] free [Fighter] units appear,[1] free [Anti-Aircraft Gun] units appear"],
+                "uniques": ["[3] free [Great War Infantry] units appear","[3] free [Fighter] units appear","[1] free [Anti-Aircraft Gun] units appear"],
         }
         {
                 "name": "Army set Blitain Marine",
