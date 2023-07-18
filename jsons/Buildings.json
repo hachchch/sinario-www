@@ -5,5 +5,12 @@
                 "uniqueTo": "Germany",
                 "uniques": ["[5] free [Great War Infantry] units appear","[1] free [Bomber] units appear","[2] free [Panzer] units appear","[1] free [Machine Gun] units appear","[1] free [Great General] units appear","[1] free [Submarine] units appear <if [Harbor] is constructed>"],
                 "requiredTech": "Replaceable Parts",
+        },
+        {
+                "name": "Army set Russia",
+                "cost": 1,
+                "uniqueTo": "Russia",
+                "uniques": ["[10] free [Rifleman] units appear","[3] free [Rocket Artillery] units appear","[3] free [Landship] units appear","[1] free [Great Engineer] units appear","[1] free [Artillery] units appear","[1] free [Cossack] units appear"],
+                "requiredTech": "Replaceable Parts",
         }
 ]
