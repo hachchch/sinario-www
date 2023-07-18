@@ -9,7 +9,7 @@
                 "name": "Army set Russia",
                 "cost": 1,
                 "uniqueTo": "Russia",
-                "uniques": ["[10] free [Rifleman] units appear","[3] free [Rocket Artillery] units appear","[3] free [Landship] units appear","[1] free [Great Engineer] units appear","[1] free [Artillery] units appear","[1] free [Cossack] units appear"],
+                "uniques": ["[9] free [Rifleman] units appear","[3] free [Rocket Artillery] units appear","[3] free [Landship] units appear","[1] free [Great Engineer] units appear","[1] free [Artillery] units appear","[1] free [Cossack] units appear","[1] free [Anti-Tank Gun]"],
         },
         {
                 "name": "Army set Japan",
@@ -21,5 +21,18 @@
                 "name": "Army set Japan Marine",
                 "cost": 1,
                 "uniqueTo": "Japan",
-                "uniques": ["Must be next to [Coast]","[2] free [Battleship] units appear","[1] free [Carrier] units appear","[3] free [Zero] units appear","[2] free [Destroyer] units appear","[1] free [Submarine] units appear"]
+                "uniques": ["Must be next to [Coast]","[2] free [Battleship] units appear","[1] free [Carrier] units appear","[3] free [Zero] units appear","[2] free [Destroyer] units appear","[1] free [Submarine] units appear"],
+        },
+        {
+                "name": "Army set Blitain Marine",
+                "cost": 1,
+                "uniqueTo": "England",
+                "uniques": ["Must be next to [Coast]","[1] free [Battleship] units appear","[3] free [Destroyer] units appear","[1] free [Carrier] units appear","[1] free [Missile Cruiser] units appear","[1] free [Marine] units appear"],
+        },
+        {
+                "name": "Army set Blitain",
+                "cost": 1,
+                "uniqueTo": "England",
+                "uniques": ["[3] free [Great War Infantry] units appear","[3] free [Fighter] units appear,[1] free [Anti-Aircraft Gun] units appear"],
+        }
 ]
